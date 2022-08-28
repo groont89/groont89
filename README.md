@@ -38,7 +38,7 @@
 
 </div>
 
-<div style="text-align:center">
+<div align ="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=groont89&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=groont89&theme=monokai)
@@ -58,7 +58,7 @@
 </div>
 
 -----------
-<div style="text-align:center">
+<div align="center">
 
 ### **Contact  me**
 
