@@ -67,14 +67,3 @@
 ![](https://komarev.com/ghpvc/?username=your-github-groont89)
 </div>
 
-
-
-<!-- [![codewars](https://www.codewars.com/users/groont89/badges/large)](https://www.codewars.com/users/groont89)    -->
-
-<!-- ![](https://komarev.com/ghpvc/?username=your-github-groont89) -->
-
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=groont89&theme=monokai) -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=groont89&theme=tokyonight)](https://github.com/groont89/github-readme-stats) -->
-
-<!-- <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> -->
